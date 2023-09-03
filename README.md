@@ -1,5 +1,8 @@
 # Desafio de Projeto Pokédex da DIO
 
+### Link para visualizar o projeto:
+<a href="https://brunodevbbf.github.io/pokedexDio/">Clique Aqui</a>
+
 ### Imagem do Projeto:
 
 ![Captura da Web_03-09-2023](https://user-images.githubusercontent.com/82480792/208006374-b1577fff-854e-4697-8aec-dd0b0eb456cb.jpeg)
